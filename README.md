@@ -1,4 +1,3 @@
-[![MasterHead](https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg)
 <h1 align="center">Hi 👋, I'm Upendra Patel</h1>
 <h3 align="center">A passionate Data Sceince Developer from India</h3>
 
